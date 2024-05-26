@@ -1,6 +1,6 @@
 * 🌍  I'm based in Gostivar,Macedonia.
 * ✉️  You can contact me at: [Nikola Siljanovski](mailto:siljanovski0@gmail.com)
-* 🧠  I have experience in JavaScript, HTML/CSS, also JavaScript and Java beginner.
+* 🧠  I have experience in JavaScript, HTML/CSS, also a Java beginner.
 * 🤝  I'm open to collaborating on Any interested projects.
 * ⚡  Also open for internship and job offers.
 * 👨‍💻 All of my projects are available at: [https://github.com/NikolaSiljanovski](https://github.com/NikolaSiljanovski)
